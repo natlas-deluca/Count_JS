@@ -24,6 +24,7 @@ button {
     font-weight: bold;
     margin-bottom: 5px;
     border-radius: 100%;
+    padding: 25px;
 }
 
 #increment-btn {
